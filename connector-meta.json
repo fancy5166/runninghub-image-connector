@@ -1,0 +1,24 @@
+{
+  "name": "RunningHub 图像生成",
+  "name_zh": "RunningHub 图像生成",
+  "name_en": "RunningHub Image",
+  "description": "RunningHub 图像能力：文生图、图生图、图像编辑、图像放大修复等 90+ 图像模型 API（Seedream、千问、悠船、Topaz 等）。搜索模型→提交任务→等待结果。由 AI芳程式 开发，问题反馈或建议请联系 zzdh518。",
+  "description_zh": "RunningHub 图像能力：文生图、图生图、图像编辑、图像放大修复等 90+ 图像模型 API（Seedream、千问、悠船、Topaz 等）。搜索模型→提交任务→等待结果。由 AI芳程式 开发，问题反馈或建议请联系 zzdh518。",
+  "description_en": "RunningHub image capabilities: 90+ image model APIs (text-to-image, image editing, upscaling) including Seedream, Qwen, Youchuan and Topaz. Developer: AI芳程式, feedback: zzdh518.",
+  "source": "runninghub-image",
+  "type": "mcp",
+  "version": "1.0.0",
+  "minWorkbuddyVersion": "4.23.0",
+  "author": "AI芳程式",
+  "feedback": "zzdh518",
+  "examples_zh": [
+    "用 seedream 文生图画一张赛博朋克城市夜景",
+    "把这张照片放大到 4K",
+    "用千问图像编辑，把图片背景换成海边"
+  ],
+  "examples_en": [
+    "Generate a cyberpunk city night scene with seedream",
+    "Upscale this photo to 4K",
+    "Edit this image to a beach background using Qwen image edit"
+  ]
+}
